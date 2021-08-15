@@ -1,4 +1,5 @@
 # Frontend Mentor - Profile card component
+https://ada-ikemefuna.github.io/profile-card-component/index.html
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
